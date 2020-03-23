@@ -1,4 +1,4 @@
-# Project 1 - BookieWookie - Book Review Site
+# BookieWookie - Book Review Site
 
 "/" + "/search" - home and search pages - Both have a simple form allowing user to search for books, but the design is different. If no search results are found an error message is displayed, else a list of results is displayed. The search queries all fields of the book (isbn, author, title) and displays all partial matches/substrings.
 
